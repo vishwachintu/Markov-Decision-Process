@@ -24,4 +24,5 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7424300
 https://artint.info/html/ArtInt_227.html  
 http://aima.cs.berkeley.edu/python/mdp.html  
 https://en.wikipedia.org/wiki/Markov_decision_process  
-https://en.wikipedia.org/wiki/Markov_decision_process#Notable_variants
+https://en.wikipedia.org/wiki/Markov_decision_process#Notable_variants  
+https://pymdptoolbox.readthedocs.io/en/latest/api/example.html
