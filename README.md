@@ -11,10 +11,7 @@ better off without hurting any other player. That is, some other outcome is weak
 preferred by at least one player. If an outcome is not Pareto dominated by any other, than it is Pareto optimal, 
 named after Vilfredo Pareto.
 
-Refrence:
-
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7424300
-
-https://artint.info/html/ArtInt_227.html
-
+Refrence:  
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7424300  
+https://artint.info/html/ArtInt_227.html  
 http://aima.cs.berkeley.edu/python/mdp.html
