@@ -13,5 +13,7 @@ named after Vilfredo Pareto.
 
 Refrence:
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7424300
+
 https://artint.info/html/ArtInt_227.html
+
 http://aima.cs.berkeley.edu/python/mdp.html
