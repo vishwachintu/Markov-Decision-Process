@@ -12,6 +12,7 @@ preferred by at least one player. If an outcome is not Pareto dominated by any o
 named after Vilfredo Pareto.
 
 Refrence:
+
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7424300
 
 https://artint.info/html/ArtInt_227.html
